@@ -1,0 +1,3 @@
+FBM_API: "https://graph.facebook.com/v2.6/me/messages"
+FACEBOOK_TOKEN: 'YOUR_FACEBOOK_TOKEN_HERE'
+VERIFY_TOKEN: 'YOUR_VERIFY_TOKEN_HERE'
